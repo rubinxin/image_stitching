@@ -6,7 +6,7 @@
 
 安装以下依赖项目:
  - Python >= 3.6.0
- - opencv-python=4.6.0
+ - opencv-python>=4.6.0
  - matplotlib
 
 ## 拼接图片

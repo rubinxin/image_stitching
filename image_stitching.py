@@ -610,7 +610,7 @@ if __name__ == '__main__':
                         help='folder location for images to be stitched ')
     parser.add_argument('-nr', '--n_rows', default=4, type=int,
                         help='number of rows')
-    parser.add_argument('-nc', '--n_column', default=4, type=int,
+    parser.add_argument('-nc', '--n_columns', default=4, type=int,
                         help='number of columns')
 
     args = parser.parse_args()
